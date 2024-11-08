@@ -1,0 +1,8 @@
+{
+    "token": "MTEwNzcyMDI5ODYzNzMxMjA1MQ.GuJmkJ.u9D9uLD5n0-H78J3IPZ_o80PFZmfQwat1BFkLA",
+    "prefix": "mnc!",
+    "connect_string": "mongodb+srv://admin:voltzzz@cluster0.fz7mz.mongodb.net/?retryWrites=true&w=majority",
+    "owners": [
+        "980107779224256642"
+    ]
+}
